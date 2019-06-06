@@ -1,0 +1,4 @@
+para permitir parametros al llamado a un js desde nodejs se usa yargs
+
+de esta manera podemos pasar parametros de la siguiente manera
+node app.js --base 5 
